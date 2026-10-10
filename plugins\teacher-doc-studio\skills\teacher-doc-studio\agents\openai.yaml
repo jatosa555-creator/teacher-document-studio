@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teacher Document Studio · ไทย / English"
+  short_description: "Polished Thai and English Word reports for teachers"
+  default_prompt: "Use $teacher-doc-studio to format my attached report as an attractive, editable Thai or English Word document and verify every page."

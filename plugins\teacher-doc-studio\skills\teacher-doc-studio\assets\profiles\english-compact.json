@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "profile": "english",
+  "font": "Calibri",
+  "size": 11,
+  "title": 21,
+  "h1": 14,
+  "h2": 12,
+  "h3": 11,
+  "line": 1.08,
+  "after": 5,
+  "margin_cm": 2.2,
+  "table_size": 10.5,
+  "caption_size": 10,
+  "footer_size": 9,
+  "subtitle_size": 11
+}

@@ -1,0 +1,18 @@
+{
+  "name": "teacher-doc-studio",
+  "version": "1.2.0",
+  "description": "Create polished, editable Word reports and teacher documents in Thai, English, or both, while preserving source content and checking page layout.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Teacher Document Studio",
+    "shortDescription": "Polished Thai and English Word documents for teachers",
+    "longDescription": "Format teacher reports, activity summaries, reflections, handouts, and academic documents. Preserve source facts and check rendered pages when tools are available.",
+    "developerName": "Teacher Document Studio",
+    "category": "Productivity",
+    "capabilities": [
+      "Format Word documents",
+      "Create Thai and English reports",
+      "Check document layout"
+    ]
+  }
+}

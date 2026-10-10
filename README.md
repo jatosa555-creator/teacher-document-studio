@@ -83,4 +83,3 @@ This is a **plugin that contains one reusable skill**. No separate connector or 
 - **Universal public directory:** submit the plugin ZIP through OpenAI's review flow. GitHub hosting alone does not create a public directory listing.
 
 Availability depends on the product surface, plan, and workspace settings.
-

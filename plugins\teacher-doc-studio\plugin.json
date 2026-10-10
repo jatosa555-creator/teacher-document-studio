@@ -1,0 +1,43 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "teacher-doc-studio",
+  "version": "1.2.0",
+  "description": "Create polished, editable Word reports and teacher documents in Thai, English, or both, while preserving source content and checking page layout.",
+  "author": {
+    "name": "Teacher Document Studio"
+  },
+  "homepage": "https://github.com/jatosa555-creator/teacher-document-studio",
+  "repository": "https://github.com/jatosa555-creator/teacher-document-studio",
+  "keywords": [
+    "education",
+    "teachers",
+    "Microsoft Word",
+    "DOCX",
+    "Thai",
+    "English",
+    "reports"
+  ],
+  "extensions": {
+    "com": {
+      "openai": {
+        "interface": {
+          "displayName": "Teacher Document Studio",
+          "shortDescription": "Polished Thai and English Word documents for teachers",
+          "longDescription": "Create and improve editable Word reports, activity summaries, reflections, handouts, and academic documents in Thai, English, or both. Preserve source facts and verify every rendered page when tools are available.",
+          "developerName": "Teacher Document Studio",
+          "category": "Productivity",
+          "capabilities": [
+            "Format Word documents",
+            "Create Thai and English reports",
+            "Check document layout"
+          ],
+          "defaultPrompt": [
+            "Format my attached Word report in Thai and keep all names and scores accurate.",
+            "Format my attached report in English as an editable Word document and check every page."
+          ],
+          "brandColor": "#315C4B"
+        }
+      }
+    }
+  }
+}

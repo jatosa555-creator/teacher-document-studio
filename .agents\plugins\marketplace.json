@@ -1,0 +1,17 @@
+{
+  "name": "teacher-document-studio",
+  "interface": {
+    "displayName": "Teacher Document Studio",
+    "description": "Thai and English Word document formatting for teachers"
+  },
+  "plugins": [
+    {
+      "name": "teacher-doc-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/teacher-doc-studio"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
